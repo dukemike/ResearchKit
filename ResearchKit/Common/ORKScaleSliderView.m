@@ -482,6 +482,7 @@
     } else {
         _valueLabel.text = @"";
     }
+    _valueLabel.text = @"";
 }
 
 - (IBAction)sliderValueChanged:(id)sender {
